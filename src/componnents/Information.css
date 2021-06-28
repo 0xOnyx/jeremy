@@ -1,0 +1,46 @@
+
+
+.text
+{
+    display: block;
+    text-align: center;
+
+}
+
+
+.titre
+{
+    font-size: 4em;
+    font-weight: 600;
+    margin: 10px;
+    font-family: 'PT Sans', sans-serif;
+}
+
+.SouTitre
+{
+    font-size: 1em;
+    opacity: 0.7;
+    margin: 0px;
+    position: relative;
+    top: -10px;
+    font-family: 'Lora', serif;
+}
+
+.logo
+{
+    margin-top: 10px;
+
+    display: flex;
+    height: 100%;
+    width:  100%;
+    flex-direction: row;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.logo a svg
+{
+    padding: 25px;
+}

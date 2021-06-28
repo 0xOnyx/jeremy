@@ -1,0 +1,35 @@
+
+#home
+{
+    background-color:rgba(255, 0, 0, 0.1);
+    
+    z-index: 40;
+
+    height: 550px;
+    width: 375px;
+ 
+    border-radius: 10px;
+}
+
+
+#postionHome
+{
+    position: relative;
+    top: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: flex-start;
+    align-items: center;
+
+}
+
+
+@media all and (min-device-width: 500px)
+{
+    #home
+    {
+        width: 700px;
+    }
+
+}
