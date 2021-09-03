@@ -14,13 +14,13 @@ function Information(props)
             <p className="SouTitre">"Full Stack Developer and Penetration Tester "</p>
             
             <div className="logo">
-                <a href="https://www.instagram.com/0xonyx">
+                <a href="https://github.com/jeje720">
                     <GitHub color="white" size={35} />
                 </a>
                 <a href="mailto:info@jeremy.best">
                     <Mail color="white" size={35} />
                 </a>
-                <a href="https://www.instagram.com/jeje720/">
+                <a href="https://www.instagram.com/0xonyx/">
                     <Instagram color="white" size={35} />
                 </a>
             </div>
