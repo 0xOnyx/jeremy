@@ -14,7 +14,7 @@ function Information(props)
             <p className="SouTitre">"Full Stack Developer and Penetration Tester "</p>
             
             <div className="logo">
-                <a href="https://github.com/jeje720">
+                <a href="https://github.com/0xOnyx">
                     <GitHub color="white" size={35} />
                 </a>
                 <a href="mailto:info@jeremy.best">
